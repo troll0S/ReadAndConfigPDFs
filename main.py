@@ -1,3 +1,11 @@
+"""
+RenameToKRK – Aplikacja do masowej zmiany nazw plików PDF na podstawie danych z dokumentu
+
+Autor: Wojciech Jurek
+Licencja: AGPLv3
+Źródło: https://github.com/troll0S/ReadAndConfigPDFs
+"""
+
 import fitz  # PyMuPDF
 import os
 import tkinter as tk
