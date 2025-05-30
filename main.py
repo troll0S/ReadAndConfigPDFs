@@ -1,5 +1,5 @@
 """
-RenameToKRK – Aplikacja do masowej zmiany nazw plików PDF na podstawie danych z dokumentu
+formatKRKfiles – Aplikacja do masowej zmiany nazw plików PDF na podstawie danych z dokumentu
 
 Autor: Wojciech Jurek
 Licencja: AGPLv3
